@@ -6,7 +6,7 @@ const weatherLocation = storage.getLocation();
 
 // initialize weather object
 let weather = new Weather();
-weather = new Weather('Surulere','Lagos');
+weather = new Weather('Ajah','Lagos');
 
 // init UI
 const ui = new UI();
