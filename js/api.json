@@ -1,0 +1,35 @@
+[      
+            {
+                "state" : "Lagos",
+                "city" : "Lekki",
+                "temperature_string": "20'C",
+                "icon_url":"img/icon.png",
+                "relative_humidity": "50%",
+                "dewpoint_string":"75 F (23 c)",
+                "feelslike_string":"Soon be Sunny",
+                "wind_string":"Strong"
+            },
+            
+            {
+                "state" : "Lagos",
+                "city" : "Surulere",
+                "temperature_string": "20'C",
+                "icon_url":"img/icon2.png",
+                "relative_humidity": "Raining",
+                "dewpoint_string":"Saturated",
+                "feelslike_string":"Thunder Storm",
+                "wind_string":"Strong"
+            },
+            
+            {
+                "state" : "Lagos",
+                "city" : "Ajah",
+                "temperature_string": "50'C",
+                "icon_url":"img/icon3.png",
+                "relative_humidity": "Raining",
+                "dewpoint_string":"Saturated",
+                "feelslike_string":"Ligthening",
+                "wind_string":"Strong"
+            }
+
+]
